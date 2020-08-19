@@ -21,6 +21,6 @@ Fake News is a major controversial issue right now. World is facing troubles to 
 # Challenge and Drawbacks
 99% Accuracy looks like unusual. But model is developed carefully to avoid overfitting. As well as, removed some specific word to avoid biasness(Reuters..). I think, it's the problem of dataset which may have some indicator which leads to high accuracy. So, it's not guranteed that this model may not work up to the marks for another new dataset.
 
-**Important Notes**
+**Important Notes** <br>
 Datasete is collected from [Kaggle](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset/download)  <br>
 Model is developed based on kernel of [Atish Adhikari](https://www.kaggle.com/atishadhikari/)
